@@ -22,5 +22,5 @@ Views:
 
 ![Mak2503's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mak2503&count_private=true&show_icons=true&theme=merko)  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mak2503&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0E0B)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mak2503&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0E0B)
 <br/>
